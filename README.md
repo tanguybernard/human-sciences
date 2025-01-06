@@ -56,15 +56,14 @@ Jerry Weinberg aurait dit quelque chose comme ça : "Everything new is broken be
 •symmathesy
 
 
-
+•Cause, effect, and the structure of social world
 - Les forces stabilisatrices poussent les gens vers le chemin qu'ils auraient suivi sans l'intervention.
-
 - un succès obtenu dans un contexte donné peut ne pas être transposé dans un autre.
 
 •Iron Law of evaluation
 - La valeur attendue de toute évaluation de l'impact net d'un programme social à grande échelle est nulle.
 
-source :
+### source :
 
 https://www.youtube.com/watch?v=_GaZrQwQ2Y0
 

@@ -53,6 +53,9 @@ Sujet à propos de l'experimentation.
 Jerry Weinberg aurait dit quelque chose comme ça : "Everything new is broken because the rest of the system isn't ready for it"
 
 
+•symmathesy
+
+
 
 - Les forces stabilisatrices poussent les gens vers le chemin qu'ils auraient suivi sans l'intervention.
 

@@ -52,6 +52,15 @@ Sujet à propos de l'experimentation.
 
 Jerry Weinberg aurait dit quelque chose comme ça : "Everything new is broken because the rest of the system isn't ready for it"
 
+
+
+- Les forces stabilisatrices poussent les gens vers le chemin qu'ils auraient suivi sans l'intervention.
+
+- un succès obtenu dans un contexte donné peut ne pas être transposé dans un autre.
+
+•Iron Law of evaluation
+- La valeur attendue de toute évaluation de l'impact net d'un programme social à grande échelle est nulle.
+
 source :
 
 https://www.youtube.com/watch?v=_GaZrQwQ2Y0

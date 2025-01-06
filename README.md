@@ -36,3 +36,11 @@ Advise: Utilize stories to free the hormone you want in the person you decide
 ### Source 
 
 https://www.youtube.com/watch?v=Nj-hdQMa3uA
+
+
+## Andrew Stanton : les idées pour une bonne histoire
+
+
+Pour ractonter une bonne histoire, il faut "Exprimez les valeurs que vous ressentez personnellement au fond de vous-mêmes."
+
+https://www.youtube.com/watch?v=KxDwieKpawg

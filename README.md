@@ -44,3 +44,16 @@ https://www.youtube.com/watch?v=Nj-hdQMa3uA
 Pour ractonter une bonne histoire, il faut "Exprimez les valeurs que vous ressentez personnellement au fond de vous-mêmes."
 
 https://www.youtube.com/watch?v=KxDwieKpawg
+
+
+## Experimenting in a Sociotechnical System - Jessica Kerr - Explore DDD 2024
+
+Sujet à propos de l'experimentation.
+
+Jerry Weinberg aurait dit quelque chose comme ça : "Everything new is broken because the rest of the system isn't ready for it"
+
+source :
+
+https://www.youtube.com/watch?v=_GaZrQwQ2Y0
+
+

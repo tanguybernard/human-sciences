@@ -53,7 +53,7 @@ Sujet à propos de l'experimentation.
 Jerry Weinberg aurait dit quelque chose comme ça : "Everything new is broken because the rest of the system isn't ready for it"
 
 
-•symmathesy
+__Symmathesy__
 
 
 •Cause, effect, and the structure of social world
@@ -63,9 +63,22 @@ Jerry Weinberg aurait dit quelque chose comme ça : "Everything new is broken be
 •Iron Law of evaluation
 - La valeur attendue de toute évaluation de l'impact net d'un programme social à grande échelle est nulle.
 
+•the goal is in the struggle (L'objectif est dans la lutte)
+- The change we are seeking will inevitability change us
+
+
+
+_When your working in a system with other people you need to bring the other people into the change, you need to listen to them, you need	 to incorporate their ideas even  if their ideas are note as good as yours.
+If you bring them in, if you sacrifice the purity of your vision to the collectiveness of building consensus and moving forward together then you have compatibility and then you might actually succeed._
+
+_Science is not something  you can do as an individual it’s something we do as a culture and as society_
+
 ### source :
 
 https://www.youtube.com/watch?v=_GaZrQwQ2Y0
+
+
+
 
 
 ## The Single Most Important Parenting Strategy | Becky Kennedy | TED

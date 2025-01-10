@@ -68,3 +68,14 @@ Jerry Weinberg aurait dit quelque chose comme ça : "Everything new is broken be
 https://www.youtube.com/watch?v=_GaZrQwQ2Y0
 
 
+## The Single Most Important Parenting Strategy | Becky Kennedy | TED
+
+Sujet de réparation.
+
+Une dispute avec un enfant. Réparer la relation plutot que vous laissez vous et l'enfant s’autoflageller à propos de cette situation.
+
+-> Je me suis énervé, ça t'a fait de la peine, je suis désolé, je veux t'aider.
+
+source: https://www.youtube.com/watch?v=PHpPtdk9rco
+
+

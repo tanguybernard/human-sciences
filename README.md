@@ -95,6 +95,9 @@ source: https://www.youtube.com/watch?v=PHpPtdk9rco
 ## Rory Sutherland : La perspective fait tout
 
 
+__Qu'est ce que la valeur ? Des solutions techniques qui oublie trop souvent l'aspect psychologique__
+
+
 Les circonstances de nos vies importe moins à notre bonheur que le sentiment de controle qu'on ressent avoir sur nos vies.
 
 Things are not what they are; they are what we think they are

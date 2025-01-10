@@ -95,7 +95,11 @@ source: https://www.youtube.com/watch?v=PHpPtdk9rco
 ## Rory Sutherland : La perspective fait tout
 
 
-Les circonstances de nos vies importe moins à notre bonheur que le sentiment de controle qu'on ressent avoir sur nos vies
+Les circonstances de nos vies importe moins à notre bonheur que le sentiment de controle qu'on ressent avoir sur nos vies.
+
+Things are not what they are; they are what we think they are
+
+Nous avons certainement donné trop d’importance à des solutions d’ingénierie techniques et vraiment pas assez aux solutions psychologiques.
 
 
 Praxeology is the study of human choice, action and decision-making.

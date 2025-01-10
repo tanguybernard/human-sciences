@@ -133,3 +133,23 @@ Qui aime manger dans un restaurant dont le sol est sale ?
 
 
 source: https://www.youtube.com/watch?v=iueVZJVEmEs
+
+
+## Organization, Collective, Decision - Dave Snowden at USI
+
+Plus tôt vous reprez une tendance négative ou positive, moins le cout de l'atténuation, de la perturbation ou de l'expension est élevé.
+
+La detection des signaux faibles est donc essentielle.
+
+///////
+
+Ce qui compte dans la complexité n'et pas de définir où vous voudriez être et essayer de combler l'écart (ce qui a été l'approche dominante de la pensée systémique) mais de décrire plus précisément
+le présent et commander les voyages avec un sens l'orientation ouvert à la découverte de nouvelles sur votre chemin.
+
+
+
+
+Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
+
+
+

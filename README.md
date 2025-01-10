@@ -92,3 +92,37 @@ Une dispute avec un enfant. Réparer la relation plutot que vous laissez vous et
 source: https://www.youtube.com/watch?v=PHpPtdk9rco
 
 
+## Rory Sutherland : La perspective fait tout
+
+
+Les circonstances de nos vies importe moins à notre bonheur que le sentiment de controle qu'on ressent avoir sur nos vies
+
+
+Praxeology is the study of human choice, action and decision-making.
+
+Von Mises, interstingly, believes, economics is just a subset of psychology.
+
+### La valeur
+
+On dit qu'il 2 valeurs disticnts: 
+- La valeur reel, celle qu'on fabrique, un objet dans une usine par exemple.
+- La valeur incertaine, que l'on crée en changeant la façon dont les gens voient les choses.
+
+Von Mises rejecte la distinction qu'on fait des deux valeurs.
+
+Il fait réference aux physiocrates français.
+
+Les physiocrates français également connus sous le nom de “les économistes”, étaient une école de pensée économique qui a émergé au XVIIIe siècle en France. Ils ont été les précurseurs du libéralisme économique moderne et ont influencé profondément la pensée économique de l’époque.
+
+Il rejete la pensé que lorsque un bucheron coupe le bois, une autre qui vendra la chaise aura enfaite exploiter le bucheron.
+
+Un autre exemple c'est le restaurant, il ne faut pas faire la disctinction entre valeur qu'on crée en cuisinant et la valeur qu'on crée en nettoyant le sol.
+
+La cuisine c'est la produit primaire et le reste créer le contexte dans lequel on peut aprécier le produit (un sol propre par exemple).
+
+L'un ne devrai pas prévaloir sur l'autre, c'est fondamentalement faux. 
+
+Qui aime manger dans un restaurant dont le sol est sale ?
+
+
+source: https://www.youtube.com/watch?v=iueVZJVEmEs

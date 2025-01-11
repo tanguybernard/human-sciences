@@ -176,6 +176,21 @@ __Epistemic injustice__
 
 La façon dont vous décrivez les choses peut controler les gens.
 
+
+__L'ia__
+
+L'ia construit et renforce les préjugés de la société.
+
+
+__Les histoires__
+
+Allons voir les infirmieres, demande leur comment mieux se concentrer sur la sécurité des patients, elles seront sur la défensive.
+Si nous avons receuilli, les histoires des patients au cours de l'année dernière et nous disons que nous avons besoin de plus d'histoires de patient comme celles-ci
+et moins d'histoires commes celles-ci, ils peuvent s'y engager parce que ce n'est pas un jugement et les histories décelenchent un contexte.
+
+
+
+
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 
 

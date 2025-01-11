@@ -150,6 +150,17 @@ le présent et commander les voyages avec un sens l'orientation ouvert à la dé
 
 Dans la complexité nous parlons d'abductive logique.
 
+////
+
+### Anthro-complexity
+
+Complexité anthropologique : L'étude de la complexité dans les systèmes humains.
+
+Concept Aperia linguistique :
+
+L'apérian linguistique (aussi appelée "hypothèse du relativisme linguistique" ou "hypothèse Sapir-Whorf") est une théorie en linguistique qui suggère que __la langue que nous parlons influence la façon dont nous percevons__ et comprenons le monde. En d'autres termes, notre pensée est, dans une certaine mesure, façonnée par la structure et le vocabulaire de notre langue maternelle.
+
+
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 

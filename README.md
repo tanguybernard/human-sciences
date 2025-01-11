@@ -160,6 +160,8 @@ Concept Aperia linguistique :
 
 L'apérian linguistique (aussi appelée "hypothèse du relativisme linguistique" ou "hypothèse Sapir-Whorf") est une théorie en linguistique qui suggère que __la langue que nous parlons influence la façon dont nous percevons__ et comprenons le monde. En d'autres termes, notre pensée est, dans une certaine mesure, façonnée par la structure et le vocabulaire de notre langue maternelle.
 
+Les aperias permettent non pas de savoir ce que les gens sont mais forcent els gens a penser différement.
+
 
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A

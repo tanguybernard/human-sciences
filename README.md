@@ -172,7 +172,9 @@ Les histoires qui comptent dans la société, ce sont les histoires du pub aprè
 C'est la que vous comprenez les attitudes, les croyances et les dispositions des gens, pas à travers des questionnaires ou des groupes de discussion où les gens savent ce que vous recherchez.
 
 
+__Epistemic injustice__
 
+La façon dont vous décrivez les choses peut controler les gens.
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 

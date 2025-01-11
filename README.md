@@ -163,6 +163,16 @@ L'apérian linguistique (aussi appelée "hypothèse du relativisme linguistique"
 Les aperias permettent non pas de savoir ce que les gens sont mais forcent els gens a penser différement.
 
 
+__Story__
+
+Les histoires qui comptent dans les organisations sont celles que les gens racontent autour de la fontaine à eau.
+
+Les histoires qui comptent dans la société, ce sont les histoires du pub après le travail ou de l'école.
+
+C'est la que vous comprenez les attitudes, les croyances et les dispositions des gens, pas à travers des questionnaires ou des groupes de discussion où les gens savent ce que vous recherchez.
+
+
+
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 

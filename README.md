@@ -189,6 +189,7 @@ Si nous avons receuilli, les histoires des patients au cours de l'année derniè
 et moins d'histoires commes celles-ci, ils peuvent s'y engager parce que ce n'est pas un jugement et les histories décelenchent un contexte.
 
 
+L'homogénéité peut détruire la créativité.
 
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A

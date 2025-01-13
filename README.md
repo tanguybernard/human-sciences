@@ -191,6 +191,25 @@ et moins d'histoires commes celles-ci, ils peuvent s'y engager parce que ce n'es
 
 L'homogénéité peut détruire la créativité.
 
+__Interaction__
+
+Nous sommes définis par nos interactions, pas parce que nous sommes.
+
+Les interactions sont une stratégie beaucoup plus efficace que d'essayer de changer les gens.
+
+
+__Explicit Goals destroy intrinsic motivation__
+
+1. Qu'est-ce que la motivation intrinsèque ?
+
+La motivation intrinsèque est le désir de faire quelque chose pour le plaisir ou l'intérêt qu'il procure, plutôt que pour une récompense ou un objectif externe. Par exemple, une personne pourrait aimer résoudre des puzzles simplement parce qu'elle apprécie le défi intellectuel.
+
+
+Fixer des objectifs explicites peut limiter l'autonomie des individus en imposant des contraintes sur la manière d'atteindre un résultat. Cela diminue le sentiment de contrôle, essentiel à la motivation intrinsèque.
+
+
+Les objectifs explicites, bien qu'utiles dans certains contextes simples ou compliqués, peuvent être contre-productifs dans des environnements complexes.
+
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 

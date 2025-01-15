@@ -221,5 +221,10 @@ Les objectifs explicites, bien qu'utiles dans certains contextes simples ou comp
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 
+## Complex Adaptive Systems - Dave Snowden - DDD Europe 2018
+
+"L'homme pense que c'est un maitre du langage mais en faite le langage et le maitre de l'homme." - Martin Heidegger
+
+Source :https://www.youtube.com/watch?v=l4-vpegxYPg
 
 

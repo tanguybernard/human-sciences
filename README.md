@@ -225,6 +225,8 @@ Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 
 "L'homme pense que c'est un maitre du langage mais en faite le langage et le maitre de l'homme." - Martin Heidegger
 
+Il faut comprendre que le langage que nous parlons determine en grande partie la façon dont on vois le monde.
+
 Source :https://www.youtube.com/watch?v=l4-vpegxYPg
 
 

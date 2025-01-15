@@ -137,6 +137,14 @@ source: https://www.youtube.com/watch?v=iueVZJVEmEs
 
 ## Organization, Collective, Decision - Dave Snowden at USI
 
+__Résumé :__
+
+Plutôt que de chercher à changer directement les comportements individuels, il est plus efficace de créer des environnements ou des contextes favorisant des interactions.
+Car elles permettent l’émergence de dynamiques collectives qui dépassent la simple somme des contributions individuelles.
+
+
+### Tendance
+
 Plus tôt vous reprez une tendance négative ou positive, moins le cout de l'atténuation, de la perturbation ou de l'expension est élevé.
 
 La detection des signaux faibles est donc essentielle.

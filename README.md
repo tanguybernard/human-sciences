@@ -223,9 +223,16 @@ Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 
 ## Complex Adaptive Systems - Dave Snowden - DDD Europe 2018
 
+### Intro
+
 "L'homme pense que c'est un maitre du langage mais en faite le langage et le maitre de l'homme." - Martin Heidegger
 
 Il faut comprendre que le langage que nous parlons determine en grande partie la façon dont on vois le monde.
+
+Taxologie vs taxonomie = Classer les choses vs Observer les choses sous differentes angles pour rélement donner un sens au monde.
+
+Attention au biais de confirmation. Au fait que vous ne verrez que ce que vous vous attendez à voir et non l'intention de voir.
+
 
 Source :https://www.youtube.com/watch?v=l4-vpegxYPg
 

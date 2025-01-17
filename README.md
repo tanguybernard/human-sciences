@@ -244,7 +244,8 @@ Le vol est ici une exaptation non linéaire. Un trait qui a évolué pour une fo
 
 Quand vous avez l'exaptation vous avez l'adapation.
 
-L'adaptation représente une utilisation secondaire d'un trait existant, c'est enfaite l'exaptation.
+
+__Les plumes des dinosaures. À l'origine, elles ont évolué pour conserver la chaleur (adaptation). Plus tard, elles ont été "exaptées" pour permettre le vol chez les oiseaux.__
 
 Les plumes à la base pour la thermorégulation. Plus tard c'est devenu une exaptation pour attraper des insectes en augmentant la surface de la main avant de devenir une exaptation pour le vol.
 

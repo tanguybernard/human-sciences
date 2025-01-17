@@ -244,9 +244,14 @@ Le vol est ici une exaptation non linéaire. Un trait qui a évolué pour une fo
 
 Quand vous avez l'exaptation vous avez l'adapation.
 
+L'adaptation représente une utilisation secondaire d'un trait existant, c'est enfaite l'exaptation.
+
+Les plumes à la base pour la thermorégulation. Plus tard c'est devenu une exaptation pour attraper des insectes en augmentant la surface de la main avant de devenir une exaptation pour le vol.
+
 
 Source :https://www.youtube.com/watch?v=l4-vpegxYPg
 
+https://www.youtube.com/watch?v=Fl55f4ljK4s
 
 
 ## TEDxRotterdam - Igor Nikolic - Complex adaptive systems

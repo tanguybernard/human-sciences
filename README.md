@@ -237,3 +237,23 @@ Attention au biais de confirmation. Au fait que vous ne verrez que ce que vous v
 Source :https://www.youtube.com/watch?v=l4-vpegxYPg
 
 
+
+## TEDxRotterdam - Igor Nikolic - Complex adaptive systems
+
+La complexité est compris par certains chercheurs comme l'incapacité d'un seul langage ou d'une seul perspective à décrire toute les propriété d'un systeme que nous observons.
+Nous devons donc avoir de multiple langages, différentes perspectives juste pour comprendre le système complexe.
+
+L'intractabilité, c'est quelque chose que les systèmes en évolution font. Ca veut dire aussi qu'il n'y a pas de moyen rapide de prédire le futur, vous ne pouvez pas sauter dedans, il faut passer par chaque étape.
+
+Ce que je comprends (Tanguy), chaque interraction avec les gens, les échanges, les bousculades, chaque action est un baby step vers le futur, logique mais qui nous construit a chaque instant.
+
+Si nous voulons avoir un monde maintenable, nous devons le façonner consciemment .
+
+
+Dans ce talk nous voyons la collaboration autour d'un wiki, différentes perspectives, des contributions de partout. On voit un système très organique qui se structure et qui n'aurait pas été possible sans le collectif.
+
+
+
+
+https://www.youtube.com/watch?v=jS0zj_dYeBE
+

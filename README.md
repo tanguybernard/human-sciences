@@ -240,7 +240,7 @@ Exaptation: Adaptation opportuniste qui privilégie des caractères qui sont uti
 
 Exemple: Il fait froid en haut des arbres donc au temps des dinosaures, cela avait plus de plume. Et en huat des arbres on peut tomber, donc on apprends à voler graçe à plus de plume.
 
-Le vol est ici une exaptation non linéaire. Un trait qui a évolué pour une fonction.
+Le vol est ici une exaptation non linéaire. Un trait qui a évolué pour une fonction associé au stress.
 
 Quand vous avez l'exaptation vous avez l'adapation.
 

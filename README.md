@@ -234,6 +234,17 @@ Taxologie vs taxonomie = Classer les choses vs Observer les choses sous differen
 Attention au biais de confirmation. Au fait que vous ne verrez que ce que vous vous attendez à voir et non l'intention de voir.
 
 
+### Exaptation
+
+Exaptation: Adaptation opportuniste qui privilégie des caractères qui sont utiles à une nouvelle fonction
+
+Exemple: Il fait froid en haut des arbres donc au temps des dinosaures, cela avait plus de plume. Et en huat des arbres on peut tomber, donc on apprends à voler graçe à plus de plume.
+
+Le vol est ici une exaptation non linéaire. Un trait qui a évolué pour une fonction.
+
+Quand vous avez l'exaptation vous avez l'adapation.
+
+
 Source :https://www.youtube.com/watch?v=l4-vpegxYPg
 
 

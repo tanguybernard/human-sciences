@@ -1,7 +1,7 @@
 # human-science
 
 
-## The science behind dramatically better conversations  (Super orateur)
+## The science behind dramatically better conversations  (Super orateur) ++++++++
 
 ### Résumé
 
@@ -135,7 +135,7 @@ Qui aime manger dans un restaurant dont le sol est sale ?
 source: https://www.youtube.com/watch?v=iueVZJVEmEs
 
 
-## Organization, Collective, Decision - Dave Snowden at USI
+## Organization, Collective, Decision - Dave Snowden at USI +++++++
 
 __Résumé :__
 
@@ -221,7 +221,7 @@ Les objectifs explicites, bien qu'utiles dans certains contextes simples ou comp
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 
-## Complex Adaptive Systems - Dave Snowden - DDD Europe 2018
+## Complex Adaptive Systems - Dave Snowden - DDD Europe 2018 +++
 
 ### Intro
 
@@ -274,3 +274,14 @@ Dans ce talk nous voyons la collaboration autour d'un wiki, différentes perspec
 
 https://www.youtube.com/watch?v=jS0zj_dYeBE
 
+
+
+## Collaboration - Affect/Possibility: Ken Blanchard at TEDxSanDiego
+
+Ken Blanchard distingue l'essence (les valeurs et la connexion "cœur à cœur") de la forme (les moyens et processus pratiques). 
+Il insiste sur l'importance de rester fidèle à l'essence avant toute choses. Parlé de la forme en premier n'a pas de sens, quand d'abord on ne se connait pas vraiment.
+
+Parle moi de toi, de ta femme, qui es tu ? Ensuite nous pourrons parler de la forme, la structure du livre, le partage des royalties...
+
+
+source : https://www.youtube.com/watch?v=HKGkBRk1kSo

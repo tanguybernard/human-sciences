@@ -292,3 +292,12 @@ Pour améliorer la collaboration, apprendre à identifier et gérer nos réactio
 
 https://www.youtube.com/watch?v=vjSTNv4gyMM 
 
+## Nicholas Christakis : L'influence cachée des réseaux sociaux
+
+Il parle au départ de l'obesité, si l'on est proche de personnes obèse (amis, parents...) on a un pourcentage de chance plus elevé d'etre obèse.
+
+Les réseaxu diffuse des messages qui par leur connection et leur proximité nous influence grandement.
+
+
+
+https://www.youtube.com/watch?v=2U-tOghblfE

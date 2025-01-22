@@ -294,10 +294,21 @@ https://www.youtube.com/watch?v=vjSTNv4gyMM
 
 ## Nicholas Christakis : L'influence cachée des réseaux sociaux
 
+
+https://www.youtube.com/watch?v=acGkMYlLM18
+
 Il parle au départ de l'obesité, si l'on est proche de personnes obèse (amis, parents...) on a un pourcentage de chance plus elevé d'etre obèse.
 
 Les réseaxu diffuse des messages qui par leur connection et leur proximité nous influence grandement.
 
+## une technique très efficace pour convaincre : les 3FO
 
+Le cerveau est naturellement opposé à de nouvelles idées qui ne sont pas en accord avec vos pensées actuelle.
+
+Vous pouvez plus facilement faire passer une idée avec la tecnique 3FO.
+
+3 Fait Vrai
+
+1 Fait très subjectif (passera plus facilement ca votre cerveau est conditionné par les 3 faits vrai)
 
 https://www.youtube.com/watch?v=2U-tOghblfE

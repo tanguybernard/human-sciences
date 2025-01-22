@@ -276,7 +276,7 @@ https://www.youtube.com/watch?v=jS0zj_dYeBE
 
 
 
-## Collaboration - Affect/Possibility: Ken Blanchard at TEDxSanDiego
+## Collaboration - Affect/Possibility: Ken Blanchard at TEDxSanDiego +++
 
 Ken Blanchard distingue l'essence (les valeurs et la connexion "cœur à cœur") de la forme (les moyens et processus pratiques). 
 Il insiste sur l'importance de rester fidèle à l'essence avant toute choses. Parlé de la forme en premier n'a pas de sens, quand d'abord on ne se connait pas vraiment.
@@ -285,3 +285,9 @@ Parle moi de toi, de ta femme, qui es tu ? Ensuite nous pourrons parler de la fo
 
 
 source : https://www.youtube.com/watch?v=HKGkBRk1kSo
+
+## Cultivating Collaboration: Don't Be So Defensive! | Jim Tamm | TEDxSantaCruz +++
+
+Pour améliorer la collaboration, apprendre à identifier et gérer nos réactions défensives. Des tips intéressants.
+https://www.youtube.com/watch?v=vjSTNv4gyMM (modifié) (modifié) 
+

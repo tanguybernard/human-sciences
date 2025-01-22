@@ -289,5 +289,6 @@ source : https://www.youtube.com/watch?v=HKGkBRk1kSo
 ## Cultivating Collaboration: Don't Be So Defensive! | Jim Tamm | TEDxSantaCruz +++
 
 Pour améliorer la collaboration, apprendre à identifier et gérer nos réactions défensives. Des tips intéressants.
-https://www.youtube.com/watch?v=vjSTNv4gyMM (modifié) (modifié) 
+
+https://www.youtube.com/watch?v=vjSTNv4gyMM 
 

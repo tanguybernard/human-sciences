@@ -312,3 +312,8 @@ Vous pouvez plus facilement faire passer une idée avec la tecnique 3FO.
 1 Fait très subjectif (passera plus facilement ca votre cerveau est conditionné par les 3 faits vrai)
 
 https://www.youtube.com/watch?v=2U-tOghblfE
+
+
+## From "Me" to "We": Recognising the Hidden Heroes of Teamwork | Leon Lloyd | TEDxNorthwich ++++
+
+https://www.youtube.com/watch?v=AFELA4YmeMI (modifié) 

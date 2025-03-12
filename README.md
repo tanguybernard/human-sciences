@@ -318,3 +318,8 @@ https://www.youtube.com/watch?v=AFELA4YmeMI
 Le striatum dans notre cerveau distribue de la dopamine et prefere la facilité à sauver la planète par exemple.
 
 https://www.youtube.com/watch?v=D4MfoZELAvk
+
+
+Resumé :
+
+https://www.youtube.com/watch?v=jrdLIRh3na0

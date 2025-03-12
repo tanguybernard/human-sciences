@@ -313,6 +313,10 @@ https://www.youtube.com/watch?v=2U-tOghblfE
 
 https://www.youtube.com/watch?v=AFELA4YmeMI
 
+## Et si on revoyait les valeurs de l'école ?
+
+https://www.youtube.com/watch?v=84mHoLjBpvA
+
 ## Sébastien Bohler : Le bug humain - conférence complète
 
 Le striatum dans notre cerveau distribue de la dopamine et prefere la facilité à sauver la planète par exemple.

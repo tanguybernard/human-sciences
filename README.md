@@ -78,9 +78,6 @@ _Science is not something  you can do as an individual it’s something we do as
 https://www.youtube.com/watch?v=_GaZrQwQ2Y0
 
 
-
-
-
 ## The Single Most Important Parenting Strategy | Becky Kennedy | TED
 
 Sujet de réparation.
@@ -270,8 +267,6 @@ Si nous voulons avoir un monde maintenable, nous devons le façonner consciemmen
 Dans ce talk nous voyons la collaboration autour d'un wiki, différentes perspectives, des contributions de partout. On voit un système très organique qui se structure et qui n'aurait pas été possible sans le collectif.
 
 
-
-
 https://www.youtube.com/watch?v=jS0zj_dYeBE
 
 
@@ -316,4 +311,10 @@ https://www.youtube.com/watch?v=2U-tOghblfE
 
 ## From "Me" to "We": Recognising the Hidden Heroes of Teamwork | Leon Lloyd | TEDxNorthwich ++++
 
-https://www.youtube.com/watch?v=AFELA4YmeMI (modifié) 
+https://www.youtube.com/watch?v=AFELA4YmeMI
+
+## Sébastien Bohler : Le bug humain - conférence complète
+
+Le striatum dans notre cerveau distribue de la dopamine et prefere la facilité à sauver la planète par exemple.
+
+https://www.youtube.com/watch?v=D4MfoZELAvk

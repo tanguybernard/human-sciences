@@ -327,3 +327,8 @@ https://www.youtube.com/watch?v=D4MfoZELAvk
 Resumé :
 
 https://www.youtube.com/watch?v=jrdLIRh3na0
+
+## Ce qui se cache derrière le fonctionnement de ChatGPT  *****
+
+
+https://www.youtube.com/watch?v=7ell8KEbhJo

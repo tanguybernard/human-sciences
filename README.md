@@ -336,7 +336,8 @@ https://www.youtube.com/watch?v=7ell8KEbhJo
 
 ## LKUK13: Cynefin in Action - Liz Keogh
 
-Complicated
+
+### Complex,complicated Chaotic
 
 - Complex implique un organisme, l'humain un systeme complexe
 - Compliqué n'est pas complexe, juste plus dur à développer que si c'était simple.
@@ -344,6 +345,38 @@ Complicated
 - Simple: C'est facile
 
 
+Dans Cynefin, les problèmes sont classés en cinq domaines :
+
+- Simple (Obvious) : Les relations de cause à effet sont claires. Suivez les bonnes pratiques.
+
+- Compliqué (Complicated) : Il existe une relation de cause à effet, mais nécessitant une expertise pour l'analyser. Faites appel aux experts.
+
+- Complexe (Complex) : Les relations de cause à effet ne sont visibles qu'après coup. Expérimentez et ajustez en fonction des résultats.
+
+- Chaotique (Chaotic) : Pas de lien clair entre cause et effet. Agissez immédiatement pour stabiliser la situation.
+
+- Désordre (Disorder) : Vous ne savez pas dans quelle catégorie vous êtes.
+
+
+
+Liz Keogh, dans **"Cynefin in Action"**, introduit des concepts liés à la prise de décision dans des environnements complexes, notamment **l’option, le commitment, la discovery et l’ignorance**.  
+
+### **1. Options**  
+Une **option** est une possibilité que l'on garde ouverte sans s'engager immédiatement. L'idée est d'éviter de prendre des décisions trop tôt pour se laisser la flexibilité de s'adapter aux informations nouvelles. Cela vient de la finance et des systèmes adaptatifs.  
+
+### **2. Commitment (Engagement)**  
+Le **commitment** est le moment où l’on prend une décision et où on s'engage sur un choix particulier. Plus on s'engage tôt, plus on réduit les options disponibles. C'est souvent un problème dans des systèmes complexes où les meilleures solutions émergent avec le temps.  
+
+### **3. Discovery (Découverte)**  
+La **discovery** consiste à explorer les différentes options avant de s’engager. Cela passe par des expériences, des tests ou des prototypes pour mieux comprendre un problème avant de prendre une décision définitive. En développement logiciel, c’est ce qu’on fait avec des **spikes**, du **prototypage rapide** ou de l’**exploration UX**.  
+
+### **4. Ignorance (Ignorance)**  
+L’**ignorance** est un danger lorsqu’on ne sait pas ce qu’on ne sait pas. C’est un biais qui pousse à s’engager trop vite sur une solution sans explorer d’autres options. Dans Cynefin, on essaie d’identifier l’ignorance pour éviter de prendre des décisions basées sur des hypothèses erronées.  
+
+#### **Lien avec l'Agilité et le DDD**  
+- Dans une approche **agile**, on privilégie la **discovery** avant de s’engager. On teste, on fait du feedback rapide avant un engagement à long terme.  
+- En **Domain-Driven Design (DDD)**, cela rejoint l'idée d'**exploration du domaine** avant de figer le modèle.  
+- Dans l’architecture **hexagonale**, on retarde certaines décisions (comme le choix d'une base de données) pour garder plus d’options ouvertes.  
 
 
 https://www.youtube.com/watch?v=G2X_7ojZwtU

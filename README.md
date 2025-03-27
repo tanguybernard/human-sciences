@@ -332,3 +332,18 @@ https://www.youtube.com/watch?v=jrdLIRh3na0
 
 
 https://www.youtube.com/watch?v=7ell8KEbhJo
+
+
+## LKUK13: Cynefin in Action - Liz Keogh
+
+Complicated
+
+- Complex implique un organisme, l'humain un systeme complexe
+- Compliqué n'est pas complexe, juste plus dur à développer que si c'était simple.
+- Chaotic : Très difficile à comprendre, à organiser car c'est chaotic
+- Simple: C'est facile
+
+
+
+
+https://www.youtube.com/watch?v=G2X_7ojZwtU

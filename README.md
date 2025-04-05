@@ -380,3 +380,12 @@ L’**ignorance** est un danger lorsqu’on ne sait pas ce qu’on ne sait pas. 
 
 
 https://www.youtube.com/watch?v=G2X_7ojZwtU
+
+
+
+## Dave Snowden's 7 principles of acts of knowing, and how we build resilient knowledge ecosystems.
+
+
+
+
+https://www.youtube.com/watch?v=TVHVvj6cBhY

@@ -383,8 +383,10 @@ https://www.youtube.com/watch?v=G2X_7ojZwtU
 
 
 
-## Dave Snowden's 7 principles of acts of knowing, and how we build resilient knowledge ecosystems.
+## Dave Snowden's 7 principles of acts of knowing, and how we build resilient knowledge ecosystems. +++++
 
+
+7. La façon dont nous prenons nos décisions n'est pas un processus structuré et ordonné... nous avons de multiples souvenirs qui se déclenchent et nous les combinons avec l'expérience actuelle.
 
 
 

@@ -391,3 +391,15 @@ https://www.youtube.com/watch?v=G2X_7ojZwtU
 
 
 https://www.youtube.com/watch?v=TVHVvj6cBhY
+
+
+## How to start changing an unhealthy work environment | Glenn D. Rolfsen | TEDxOslo
+
+Supprimer le backbiting (la médisance) les ragots envers ses collègues sa famille en entreprise avec un petit groupe.
+
+Toujours se demander si l'info est :
+- vrai
+- sympa, gentil envers la personne
+- utile
+
+https://www.youtube.com/watch?v=eYLb7WUtYt8

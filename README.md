@@ -408,3 +408,8 @@ https://www.youtube.com/watch?v=eYLb7WUtYt8
 ## Cosima Laube - Sustainable Pace ! How self care actually boosts teamwork - NewCrafts 2023
 
 We do not learn from experience we learn from reflecting on experience.
+=> 
+Nous n'apprenons pas par l'expérience, mais par la réflexion sur l'expérience.
+
+
+C'est en reflechissant à notre experience qu'on apprends.

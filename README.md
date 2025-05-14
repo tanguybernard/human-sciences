@@ -403,3 +403,8 @@ Toujours se demander si l'info est :
 - utile
 
 https://www.youtube.com/watch?v=eYLb7WUtYt8
+
+
+## Cosima Laube - Sustainable Pace ! How self care actually boosts teamwork - NewCrafts 2023
+
+We do not learn from experience we learn from reflecting on experience.

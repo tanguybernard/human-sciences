@@ -407,9 +407,27 @@ https://www.youtube.com/watch?v=eYLb7WUtYt8
 
 ## Cosima Laube - Sustainable Pace ! How self care actually boosts teamwork - NewCrafts 2023
 
+### Individual Level
+
+- What I Need Manual (Faire le point sur ce qu'on a besoin, chaque jour, chaque semaine, chaque mois)
+- Business journaling (Journal de bord au sein de l'entreprise, ressentiment)
+- Faire attention à son coeur et sa tete
+
 We do not learn from experience we learn from reflecting on experience.
 => 
 Nous n'apprenons pas par l'expérience, mais par la réflexion sur l'expérience.
 
-
 C'est en reflechissant à notre experience qu'on apprends.
+
+### COR
+
+Conservation of Resources (COR) theory, developed by Dr. Stevan E. Hobfoll in 1989, explains how individuals strive to protect and build resources to manage stress, cope with adversity, and promote well-being.
+
+ex: Food, money, relationships, time...
+
+
+### Team Level
+
+- What I Need Manual (Faire le point sur ce qu'on a besoin, chaque jour, chaque semaine, chaque mois) as a Team
+- Ecouter, avoir de l'empathie, comprendre
+

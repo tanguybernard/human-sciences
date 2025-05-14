@@ -431,3 +431,4 @@ ex: Food, money, relationships, time...
 - What I Need Manual (Faire le point sur ce qu'on a besoin, chaque jour, chaque semaine, chaque mois) as a Team
 - Ecouter, avoir de l'empathie, comprendre
 
+https://www.youtube.com/watch?v=5AJ11D4tOMM

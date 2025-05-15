@@ -432,3 +432,11 @@ ex: Food, money, relationships, time...
 - Ecouter, avoir de l'empathie, comprendre
 
 https://www.youtube.com/watch?v=5AJ11D4tOMM
+
+
+## Dans nos désaccords, mieux communiquer pour mieux réussir ensemble | Françoise Keller | TEDxRoanne 
+
+La communication non violente pour exprimer ce qui nous anime. Ce qui anime les autres pour trouver des solutions ensemble.
+
+
+https://www.youtube.com/watch?v=PslpPyF7Z80

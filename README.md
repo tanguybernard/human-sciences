@@ -440,3 +440,21 @@ La communication non violente pour exprimer ce qui nous anime. Ce qui anime les 
 
 
 https://www.youtube.com/watch?v=PslpPyF7Z80
+
+
+## Devenir pleinement soi-même | Laurent Gounelle | TEDxMarseille 
+
+À quoi s’accroche-t-on pour être soi-même ? Son rôle professionnel, ses qualités, son physique, ses possessions…
+De fausses représentations qui nous perdent…
+Laurent Gounelle propose quelques pistes pour retrouver notre chemin :
+
+- Lâcher prise : accepter de ne pas tout contrôler et accueillir l'incertitude.
+- S'aimer soi-même : cultiver l'amour-propre et la bienveillance envers soi.
+- Accepter ses échecs : les voir comme des opportunités d'apprentissage plutôt que comme des défaites.
+- Pratiquer la gratitude : se focaliser sur les aspects positifs de la vie pour développer une confiance en la vie. 
+
+
+
+https://www.youtube.com/watch?v=NZXJ7zh3PJM
+
+

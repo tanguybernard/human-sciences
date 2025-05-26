@@ -458,3 +458,12 @@ Laurent Gounelle propose quelques pistes pour retrouver notre chemin :
 https://www.youtube.com/watch?v=NZXJ7zh3PJM
 
 
+## Le Management collaboratif, du Leadership au Membership | Alain Goudsmet | TEDxIESEGLille
+
+
+Leadership : Créer de l'energie
+Membership: Se servir de l'energie pour fonctionner ensemble.
+
+Problématique intra team (au sein de l'équipe) / inter team (entre les équipes)
+
+

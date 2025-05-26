@@ -1,7 +1,7 @@
 # human-science
 
 
-## The science behind dramatically better conversations  (Super orateur) ++++++++
+## The science behind dramatically better conversations  (Super orateur) +++++
 
 ### Résumé
 

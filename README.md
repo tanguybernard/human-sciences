@@ -458,7 +458,7 @@ Laurent Gounelle propose quelques pistes pour retrouver notre chemin :
 https://www.youtube.com/watch?v=NZXJ7zh3PJM
 
 
-## Le Management collaboratif, du Leadership au Membership | Alain Goudsmet | TEDxIESEGLille
+## Le Management collaboratif, du Leadership au Membership | Alain Goudsmet | TEDxIESEGLille ++++
 
 
 Leadership : Créer de l'energie

@@ -464,7 +464,15 @@ https://www.youtube.com/watch?v=NZXJ7zh3PJM
 Leadership : Créer de l'energie
 Membership: Se servir de l'energie pour fonctionner ensemble.
 
-Problématique intra team (au sein de l'équipe) / inter team (entre les équipes)
+Problématique intra team (au sein de l'équipe) / inter team (entre les équipes).
+
+
+Membership : collaboration, confiance, team first, respect
+
+
+Evalue un membre = Productivité/ cout d'energie
+
+Perte d'energie si le membre regarde son smartphone, arrive en retard au réunion...
 
 source: https://www.youtube.com/watch?v=Ac9a_DwACjs
 

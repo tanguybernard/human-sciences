@@ -474,5 +474,18 @@ Evalue un membre = Productivité/ cout d'energie
 
 Perte d'energie si le membre regarde son smartphone, arrive en retard au réunion...
 
+
+Intra team glue (qu'est ce qui peut marcher dans notre équipe)
+- Un objectif commun
+- Un cadre commun
+- Une confiance commune
+
+Inter Team Glue
+- Sens commun (mission commune, le pourquoi ?)
+- Les valeurs
+- La fierté d'appartenance
+
+
+
 source: https://www.youtube.com/watch?v=Ac9a_DwACjs
 

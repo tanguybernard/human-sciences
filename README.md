@@ -132,7 +132,7 @@ Qui aime manger dans un restaurant dont le sol est sale ?
 source: https://www.youtube.com/watch?v=iueVZJVEmEs
 
 
-## Organization, Collective, Decision - Dave Snowden at USI +++++++
+## Organization, Collective, Decision - Dave Snowden at USI +++++
 
 __Résumé :__
 

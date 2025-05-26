@@ -466,4 +466,5 @@ Membership: Se servir de l'energie pour fonctionner ensemble.
 
 Problématique intra team (au sein de l'équipe) / inter team (entre les équipes)
 
+source: https://www.youtube.com/watch?v=Ac9a_DwACjs
 

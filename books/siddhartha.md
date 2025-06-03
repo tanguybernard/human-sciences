@@ -27,15 +27,5 @@ J'ai l'impression qu'a la fin du livre il semble atteindre le Niravana, libéré
 __"Le Nirvana dans le Bouddhisme est cette étape où notre âme arrive à se détacher de tous les désirs du corps et où le cycle du Karma est interrompu pour faire place à l’Éveil."__
 
 
-## ATOMIC HABITS - Un rien peut tout changer - James Clear
-
-Il ne suffit pas de vouloir il faut le devenir.
-
-Je souhaite lire des livres vs Je suis lecteur.
-
-Les habitudes sont l'intérêt composé de l'amélioration de soi. 1% d'amélioration chaque jour finit par compter énormément sur le long terme.
-
-
-Next: Chapitre 3
 
 

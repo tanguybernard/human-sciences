@@ -10,3 +10,8 @@
 - Lire un livre
 - Boire un thé
 - Travailler
+- Sport le jeudi midi
+- Travailler
+- Rentrer a la maison
+- Vaisselle
+- Dormir

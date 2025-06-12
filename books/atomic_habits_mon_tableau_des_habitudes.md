@@ -21,3 +21,10 @@ Page 93
 | Dormir | ✅ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ |
 
 
+
+
+PAge 89 :
+
+Après [HABITUDE ACTUELLE] je vais [NOUVELLE HABITUDE].
+
+Après mettre servit une tasse de thé/infusion je vais méditer pendant au moins 1 minute.

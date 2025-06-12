@@ -489,3 +489,10 @@ Inter Team Glue
 
 source: https://www.youtube.com/watch?v=Ac9a_DwACjs
 
+
+
+### Une journée dans la vie d’un neuroatypique | Arnaud Chaput | TEDxIESEGLille +++++
+
+Très instpirant
+
+https://www.youtube.com/watch?v=jfwRegf4mE0

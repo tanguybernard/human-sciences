@@ -491,8 +491,25 @@ source: https://www.youtube.com/watch?v=Ac9a_DwACjs
 
 
 
-### Une journée dans la vie d’un neuroatypique | Arnaud Chaput | TEDxIESEGLille +++++
+
+## Une journée dans la vie d’un neuroatypique | Arnaud Chaput | TEDxIESEGLille +++++
 
 Très instpirant
 
 https://www.youtube.com/watch?v=jfwRegf4mE0
+
+
+
+## COMMENT OSER PARLER À N’IMPORTE QUI (grâce aux neurosciences 🧠) ? (Ft. ‪@CharlieHaid‬)
+
+Avant une reunion ou un meeting, parler aux gens dans la rue ou dans le bureau.
+
+Technique de la respiration carré pour lutter contre le stress.
+
+La respiration carrée, également appelée « samavritti » ou « respiration en carré », est une technique de respiration issue du pranayama, une discipline du souffle en yoga.
+
+
+
+https://www.youtube.com/watch?v=zSzGvzHvT-0
+
+

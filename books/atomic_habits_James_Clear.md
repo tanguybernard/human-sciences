@@ -50,6 +50,15 @@ Les mauvaises habitudes sont autocatalytiques : les processus s'autoalimente.
 | Ton environnement façonne tes choix automatiques. Même si tu as une forte volonté, elle est limitée. En revanche, un environnement bien conçu réduit le besoin de volonté et rend les bons choix plus faciles, naturels, voire inévitables.
 
 
+## Chap 9
+
+Le désir est la différence entre ce que vous êtes maintenant et ce que vous voulezêtre dans le futur.
+
+Veous êtes stressé au travail ? Prenez 3 profondes inspirations et souriez.
+
+
+## Chap 11
+
 
 
 

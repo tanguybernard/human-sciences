@@ -59,6 +59,22 @@ Veous êtes stressé au travail ? Prenez 3 profondes inspirations et souriez.
 
 ## Chap 11
 
+Etre en mouvement vs Etre en action.
+
+_Ex: Si je cherche un meilleur régime alimentaire je suis en mouvement, si je mange un repas sain je suis dans l'action._
+
+Combien de temps pour créer une nouvelle habitude ? Les gens devraient véritablement se demander :
+"Combien de temps répétitions pour créer une nouvelle habitude ?"
+
+Peut importe le temps qu'il faut a une habitude pour deveir automatique. 
+**Ce qui compte c'est que vous preniez les mesures nécessaires pour progresser.**
+Le fait qu'une action soit entièrement automatique reste secondaire.
+
+## Chap 12
+
+La loi du moindre effort
+
+...
 
 
 

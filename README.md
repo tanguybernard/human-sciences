@@ -513,3 +513,8 @@ La respiration carrée, également appelée « samavritti » ou « respiration e
 https://www.youtube.com/watch?v=zSzGvzHvT-0
 
 
+## How to deal with dificul people ++
+
+
+https://www.youtube.com/watch?v=kARkOdRHaj8
+

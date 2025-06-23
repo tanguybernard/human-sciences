@@ -74,7 +74,58 @@ Le fait qu'une action soit entièrement automatique reste secondaire.
 
 La loi du moindre effort
 
-...
+**Vous êtes plus susceptible d'aller à la salle de sport si elle se trouve sur le chemin du travail, car vous y arreter ne perturbera pas beaucoup
+votre quotidien.**
 
+## Chap 13
+
+La règle des 2min.
+
+Si une tâche peut être accomplie en deux minutes ou moins, faites-la immédiatement.
+
+## Chap 14
+
+Les dispositifs d'engagement sont utiles car ils vous permettent de tirer parti de vos bonnes intentions avant d'être victime
+de vos tentations.
+
+## Chap 15
+
+Nous sommes plus susceptible de répéter un comportement s'il est satisfaisant.
+
+Le cerveau humain n'a pas évolué pour vivre dans un environnement à __retour différé__. 
+Notre cerveau veut du retour immédiat, une récompense immédiate.
+
+
+## Chap 16
+
+Si nous n'évaluons pas le bon élément, nous obtenons un mauvais comportement.
+
+La loi de goodhart :
+
+_Lorsqu'un élément d'évaluation devient un objectif  il cesse d'être un élément d'évaluation._
+
+Ne manquez jamais une habitude deux fois de suite.
+
+## Chapitre : La vérité sur le talent
+
+**Les gènes ne déterminent pas votre destin.  Ils déterminent vos domaines de compétences.**
+
+## Chap 19
+
+La règle de Boucles d'Or
+
+
+_"La règle de Boucles d'Or stipule que les tâches doivent être juste assez difficiles, ni trop faciles, ni trop difficiles. Si une tâche est trop facile, elle devient ennuyeuse. Si elle est trop difficile, elle peut provoquer de la frustration et donner envie d'abandonner. Lorsque les tâches sont bien équilibrées, elles vous intéressent et vous motivent, vous aidant à atteindre un état appelé 'flow', où vous êtes complètement concentré et absorbé par ce que vous faites."_
+
+Vous devez appércier l'ennui (je pense pour surmonter certaines attentes.)
+
+
+Un profesionnel respecte le calendrier fixé, un amateur se laisse déborder.
+
+## Annexe
+
+Votre satisfaction dépend de votre attente.
+
+Le pauvre n'est pas celui qui a peu, mais celui qui en vent toujours plus - Sénèque
 
 

@@ -1,7 +1,7 @@
 # human-science
 
 
-## The science behind dramatically better conversations  (Super orateur) +++++
+## The science behind dramatically better conversations  (Super orateur) ⭐⭐⭐⭐⭐
 
 ### Résumé
 
@@ -132,7 +132,7 @@ Qui aime manger dans un restaurant dont le sol est sale ?
 source: https://www.youtube.com/watch?v=iueVZJVEmEs
 
 
-## Organization, Collective, Decision - Dave Snowden at USI +++++
+## Organization, Collective, Decision - Dave Snowden at USI ⭐⭐⭐⭐⭐
 
 __Résumé :__
 
@@ -218,7 +218,7 @@ Les objectifs explicites, bien qu'utiles dans certains contextes simples ou comp
 
 Source : https://www.youtube.com/watch?v=ZNVcy09lx9A
 
-## Complex Adaptive Systems - Dave Snowden - DDD Europe 2018 +++
+## Complex Adaptive Systems - Dave Snowden - DDD Europe 2018 ⭐⭐⭐
 
 ### Intro
 
@@ -271,7 +271,7 @@ https://www.youtube.com/watch?v=jS0zj_dYeBE
 
 
 
-## Collaboration - Affect/Possibility: Ken Blanchard at TEDxSanDiego +++
+## Collaboration - Affect/Possibility: Ken Blanchard at TEDxSanDiego ⭐⭐⭐
 
 Ken Blanchard distingue l'essence (les valeurs et la connexion "cœur à cœur") de la forme (les moyens et processus pratiques). 
 Il insiste sur l'importance de rester fidèle à l'essence avant toute choses. Parlé de la forme en premier n'a pas de sens, quand d'abord on ne se connait pas vraiment.
@@ -281,7 +281,7 @@ Parle moi de toi, de ta femme, qui es tu ? Ensuite nous pourrons parler de la fo
 
 source : https://www.youtube.com/watch?v=HKGkBRk1kSo
 
-## Cultivating Collaboration: Don't Be So Defensive! | Jim Tamm | TEDxSantaCruz +++
+## Cultivating Collaboration: Don't Be So Defensive! | Jim Tamm | TEDxSantaCruz ⭐⭐⭐
 
 Pour améliorer la collaboration, apprendre à identifier et gérer nos réactions défensives. Des tips intéressants.
 
@@ -309,7 +309,7 @@ Vous pouvez plus facilement faire passer une idée avec la tecnique 3FO.
 https://www.youtube.com/watch?v=2U-tOghblfE
 
 
-## From "Me" to "We": Recognising the Hidden Heroes of Teamwork | Leon Lloyd | TEDxNorthwich ++++
+## From "Me" to "We": Recognising the Hidden Heroes of Teamwork | Leon Lloyd | TEDxNorthwich ⭐⭐⭐⭐
 
 https://www.youtube.com/watch?v=AFELA4YmeMI
 
@@ -328,7 +328,7 @@ Resumé :
 
 https://www.youtube.com/watch?v=jrdLIRh3na0
 
-## Ce qui se cache derrière le fonctionnement de ChatGPT  *****
+## Ce qui se cache derrière le fonctionnement de ChatGPT  ⭐⭐⭐⭐⭐
 
 
 https://www.youtube.com/watch?v=7ell8KEbhJo
@@ -383,7 +383,7 @@ https://www.youtube.com/watch?v=G2X_7ojZwtU
 
 
 
-## Dave Snowden's 7 principles of acts of knowing, and how we build resilient knowledge ecosystems. +++++
+## Dave Snowden's 7 principles of acts of knowing, and how we build resilient knowledge ecosystems. ⭐⭐⭐⭐⭐
 
 
 7. La façon dont nous prenons nos décisions n'est pas un processus structuré et ordonné... nous avons de multiples souvenirs qui se déclenchent et nous les combinons avec l'expérience actuelle.
@@ -458,7 +458,7 @@ Laurent Gounelle propose quelques pistes pour retrouver notre chemin :
 https://www.youtube.com/watch?v=NZXJ7zh3PJM
 
 
-## Le Management collaboratif, du Leadership au Membership | Alain Goudsmet | TEDxIESEGLille ++++
+## Le Management collaboratif, du Leadership au Membership | Alain Goudsmet | TEDxIESEGLille ⭐⭐⭐⭐
 
 
 Leadership : Créer de l'energie
@@ -492,7 +492,7 @@ source: https://www.youtube.com/watch?v=Ac9a_DwACjs
 
 
 
-## Une journée dans la vie d’un neuroatypique | Arnaud Chaput | TEDxIESEGLille +++++
+## Une journée dans la vie d’un neuroatypique | Arnaud Chaput | TEDxIESEGLille ⭐⭐⭐⭐⭐
 
 Très instpirant
 
@@ -513,8 +513,13 @@ La respiration carrée, également appelée « samavritti » ou « respiration e
 https://www.youtube.com/watch?v=zSzGvzHvT-0
 
 
-## How to deal with dificul people ++
+## How to deal with dificul people ⭐⭐
 
 
 https://www.youtube.com/watch?v=kARkOdRHaj8
+
+## Why you think you're right -- even if you're wrong | Julia Galef ⭐⭐⭐⭐⭐
+
+
+https://www.youtube.com/watch?v=w4RLfVxTGH4
 
